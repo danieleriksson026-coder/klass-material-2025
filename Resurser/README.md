@@ -1,4 +1,4 @@
-# 🛠️ Resurser och verktyg
+# 🔧 Resurser och verktyg
 
 Samlingsplats för användbara länkar, verktyg och guider.
 

@@ -19,7 +19,7 @@
 ## 📁 Mappstruktur
 
 ```
-📁 Kurser/           - Allt kursmaterial organiserat per ämne
+📁 Kurser/           - Kursmaterial organiserat per ämne
 📁 Anteckningar/     - Delade anteckningar från lektioner
 📁 Resurser/         - Användbara länkar, verktyg, guider
 📁 Schema/           - Tidsscheman, deadlines, viktiga datum
